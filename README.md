@@ -70,7 +70,8 @@ Prototype demo video https://youtu.be/Xr7gXrUQYQc
 Presentation Video https://youtu.be/pCJs0spkoRQ
 
 ## 📁 Repository Structure
-
+https://github.com/CHRISBINJAEDON/GYCH.git
+https://devpost.com/software/wildguard-ai-blockchain-for-wildlife-conflict-safety
 
 ## 📜 License
 
